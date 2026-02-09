@@ -1,0 +1,11 @@
+# Entorno virtual
+env/
+venv/
+__pycache__/
+
+# Seguridad (Claves API)
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
