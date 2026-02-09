@@ -3,7 +3,7 @@
 Este proyecto analiza el Retorno de Inversión (ROI) de la industria del cine utilizando datos de la API de TMDB.
 
 ## 📊 Dashboard Final
-![Dashboard de Cine](./img/dashboard_final.png)
+![Dashboard de Cine](./img/dashboard_final.png.png)
 
 ## 🛠️ Tecnologías utilizadas
 * **Python:** Extracción y limpieza de datos (Requests, Pandas).
